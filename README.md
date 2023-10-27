@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PAVANSAIPOTNURU
+- 👋 Hi, I’m @Pavan Sai Potnuru
 - 👀 I’m interested in Programming, Full stack development, App Development
 - 🌱 I’m currently learning Full stack development and new technologies
 - 💞️ I’m looking to collaborate with those are begineer for the programming and full stack development
